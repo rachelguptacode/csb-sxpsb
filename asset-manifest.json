@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://rachelguptacode.github.io/csb-sxpsb/static/css/main.e037daac.chunk.css",
+    "main.js": "https://rachelguptacode.github.io/csb-sxpsb/static/js/main.fe700b22.chunk.js",
+    "main.js.map": "https://rachelguptacode.github.io/csb-sxpsb/static/js/main.fe700b22.chunk.js.map",
+    "runtime-main.js": "https://rachelguptacode.github.io/csb-sxpsb/static/js/runtime-main.316de592.js",
+    "runtime-main.js.map": "https://rachelguptacode.github.io/csb-sxpsb/static/js/runtime-main.316de592.js.map",
+    "static/js/2.7418cd4f.chunk.js": "https://rachelguptacode.github.io/csb-sxpsb/static/js/2.7418cd4f.chunk.js",
+    "static/js/2.7418cd4f.chunk.js.map": "https://rachelguptacode.github.io/csb-sxpsb/static/js/2.7418cd4f.chunk.js.map",
+    "static/js/3.229ff4a8.chunk.js": "https://rachelguptacode.github.io/csb-sxpsb/static/js/3.229ff4a8.chunk.js",
+    "static/js/3.229ff4a8.chunk.js.map": "https://rachelguptacode.github.io/csb-sxpsb/static/js/3.229ff4a8.chunk.js.map",
+    "index.html": "https://rachelguptacode.github.io/csb-sxpsb/index.html",
+    "static/css/main.e037daac.chunk.css.map": "https://rachelguptacode.github.io/csb-sxpsb/static/css/main.e037daac.chunk.css.map",
+    "static/js/2.7418cd4f.chunk.js.LICENSE.txt": "https://rachelguptacode.github.io/csb-sxpsb/static/js/2.7418cd4f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.316de592.js",
+    "static/js/2.7418cd4f.chunk.js",
+    "static/css/main.e037daac.chunk.css",
+    "static/js/main.fe700b22.chunk.js"
+  ]
+}
